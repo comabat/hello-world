@@ -1,1 +1,1 @@
-<h1>Welcome to poll-scm eample</h1>
+<h1>Welcome to poll-scm example!</h1>
